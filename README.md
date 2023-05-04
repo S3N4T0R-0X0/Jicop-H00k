@@ -7,8 +7,6 @@ To build the BOF, use the following command: i686-w64-mingw32-gcc JicopH00k.c -o
 
 Once compiled, the BOF can be executed with the following command: ./command_control ip_address port
 
-Please note that the purpose of this repository is to provide a technical demonstration only and should not be used for any malicious or illegal activities.
-
 Here I was trying on the Kaspersky AV & Hunters Against EDR
 
 
