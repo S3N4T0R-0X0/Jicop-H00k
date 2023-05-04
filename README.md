@@ -4,6 +4,8 @@ BOFs are a way to rapidly extend the Beacon agent with new post-exploitation fea
 Inject shellcode (either custom or beacon) into remote process using NtOpenProcess - NtAllocateVirtualMemory - NtWriteVirtualMemory .
 
 Build: i686-w64-mingw32-gcc JicopH00k.c -o JicopH00k.exe -lws2_32
+
+
 Use : ./command_control ip_address port
 
 Here I was trying on the Kaspersky AV & Hunters Against EDR
