@@ -4,6 +4,7 @@
 |Name : Jicop-H00k                                           |
 |Author : S3N4T0R                                            |
 |Date : January 23rd 2022 - January 26th 2022                |
+|OS   : windows                                              |  
 |____________________________________________________________|
 */
 
