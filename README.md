@@ -7,7 +7,7 @@ To build the BOF, use the following command: i686-w64-mingw32-gcc JicopH00k.c -o
 
 Once compiled, the BOF can be executed with the following command: ./command_control ip_address port
 
-Here I was trying on the Kaspersky AV & Hunters Against EDR
+Here I was bypass the Kaspersky AV & Hunters Against EDR
 
 
 https://user-images.githubusercontent.com/121706460/236143988-70bb1c5f-dc2d-43e6-9ed9-d39b5bf8f307.mp4
